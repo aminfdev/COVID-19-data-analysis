@@ -9,7 +9,7 @@
 
 - Data fetching: Scripts to fetch COVID-19 data from reliable sources.
 - Data cleaning: Scripts to clean and preprocess the data for analysis.
-- Exploratory Data Analysis (EDA): Jupyter notebooks with in-depth analysis and visualizations.
+- Exploratory Data Analysis (EDA): Scripts with in-depth analysis and visualizations.
 - Trend analysis: Scripts to identify and visualize trends in COVID-19 cases, deaths, and recoveries.
 
 
@@ -44,15 +44,15 @@ Caption: This chart illustrates the number of confirmed, deaths, recovered, and 
 
 ![Spread Analysis](https://github.com/aminfdev/COVID-19-data-analysis/blob/main/reports/chart-5.png)
 
-Caption: This chart illustrates the number of confirmed, deaths, recovered, and active cases for some contries.
+Caption: This chart illustrates the number of confirmed, deaths, recovered, and active cases for some countries.
 
 ![Spread Analysis](https://github.com/aminfdev/COVID-19-data-analysis/blob/main/reports/chart-6.png)
 
-Caption: This chart illustrates the number of daily confirmed cases for some contries.
+Caption: This chart illustrates the number of daily confirmed cases for some countries.
 
 ![Spread Analysis](https://github.com/aminfdev/COVID-19-data-analysis/blob/main/reports/chart-7.png)
 
-Caption: This chart illustrates the number of new confirmed cases for some contries.
+Caption: This chart illustrates the number of new confirmed cases for some countries.
 
 #### Demographic Insights
 
