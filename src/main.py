@@ -1,8 +1,3 @@
-# COVID-19 Data Analysis
-# Written by Mohammad Amin Fathi & Mehdi Afshari
-# Institute for Advanced Studies in Basic Sciences (IASBS)
-# Department of Computer Science and Information Technology
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
